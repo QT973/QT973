@@ -13,6 +13,6 @@ I'm a passionate software developer currently learning and researching AI applic
 My aim is to leverage AI to solve practical problems, optimize the performance of automated systems, and bring tangible value to the community.  
 
 📬 **Get in Touch:**  
-- 📧 Email: [quangtruong09072003@gmail.com]  
+- 📧 Email: quangtruong09072003@gmail.com  
 
 
