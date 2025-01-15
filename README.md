@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there! I'm Quang Truong  
 
-<!--
-**QT973/QT973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **About Me:**  
+I'm a passionate software developer currently learning and researching AI applications for software and robotic systems.  
 
-Here are some ideas to get you started:
+✨ **Skills and Interests:**  
+- Developing and integrating AI into robotic systems  
+- Computer Vision  
+- Deep Learning and Machine Learning  
+- Applying AI in real-world scenarios  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Goals:**  
+My aim is to leverage AI to solve practical problems, optimize the performance of automated systems, and bring tangible value to the community.  
+
+📬 **Get in Touch:**  
+- 📧 Email: [quangtruong09072003@gmail.com]  
+
+
